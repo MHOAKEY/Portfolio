@@ -19,19 +19,19 @@ nav {
   padding: 30px 25px;
 }
 
-nav > h3,
-nav > h4 {
+.nav--logoText,
+.nav--title {
   margin: 0;
 }
 
-nav > h3 {
+.nav--logoText {
   margin-right: auto;
   color: #ba9770;
   font-weight: 700;
   font-size: 22px;
 }
 
-nav > h4 {
+.nav--title {
   color: #deebf8;
   font-weight: 600;
 }

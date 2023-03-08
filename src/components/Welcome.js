@@ -15,7 +15,9 @@ export default function Welcome() {
 
   return (
     <div className="welcome">
-      <h1>Good {timeOfDay}! I mean.. ahwroowroowroo</h1>
+      <h1 className="speech-bubble">
+        Good {timeOfDay}! I mean.. aahh wroowroowroo
+      </h1>
     </div>
   );
 }

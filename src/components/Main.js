@@ -1,4 +1,5 @@
 import React from "react";
+import Welcome from "./Welcome";
 
 export default function Main() {
   return (
@@ -11,6 +12,7 @@ export default function Main() {
         <li>Learning new things is fun to me</li>
         <li>I'm always drowning in projects</li>
       </ul>
+      <Welcome />
     </div>
   );
 }

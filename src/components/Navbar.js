@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../images/DivaXMAS.jpeg";
+import Logo from "../images/DivaXMAS-removebg.png";
 
 export default function Navbar() {
   return (

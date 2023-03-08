@@ -50,9 +50,9 @@ nav > img {
   width: 700px;
   padding: 57px 27px;
   background: url("./images/DivaXMAS-removebg.png");
-  background-position: 180%;
+  background-position: 110%;
   background-repeat: no-repeat;
-  background-size: 75%;
+  background-size: 50%;
   color: white;
 }
 
@@ -71,4 +71,9 @@ nav > img {
 .main--facts > li::marker {
   color: #ba9770;
   font-size: 1.4rem;
+}
+
+.welcome {
+  padding-left: 160px;
+  padding-right: 230px;
 }

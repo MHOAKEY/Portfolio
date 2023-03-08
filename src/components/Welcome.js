@@ -10,7 +10,7 @@ export default function Welcome() {
   } else if (hours >= 12 && hours < 17) {
     timeOfDay = "afternoon";
   } else {
-    timeOfDay = "night";
+    timeOfDay = "evening";
   }
 
   return (

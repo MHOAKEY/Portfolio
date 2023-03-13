@@ -5,7 +5,7 @@ import htmlLogo from "./images/htmlLogo.png";
 import htmlVscode from "./images/htmlVscode.png";
 import githubLogo from "./images/githubLogo.png";
 import cssLogo from "./images/cssLogo.png";
-import jsLogo from "./images/jsLogo.png";
+import jsLogo from "./images/jsLogo2.png";
 
 export default [
   {

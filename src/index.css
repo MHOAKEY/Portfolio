@@ -113,3 +113,17 @@ nav > img {
   height: 13px;
   border-radius: 50%;
 }
+
+.card {
+  width: 200px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+}

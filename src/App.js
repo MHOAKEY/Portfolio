@@ -17,10 +17,10 @@ export default function App() {
     );
   });
   return (
-    <div className="container">
+    <div>
       <Navbar />
       <Main />
-      {cards}
+      <section className="cards-list">{cards}</section>
     </div>
   );
 }

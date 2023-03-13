@@ -7,7 +7,7 @@ export default function Card(props) {
       <img src={props.img} className="card--img" />
       <div className="card--stats">
         <img src={props.img2} className="card--vscodeImg" />
-        <span>{props.title}</span>
+        <span className="card--title">{props.title}</span>
         <span className="gray">({props.description}) • </span>
         <span className="gray">{props.other}</span>
       </div>

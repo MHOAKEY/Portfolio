@@ -107,6 +107,7 @@ nav > img {
 
 .card--img {
   height: 200px;
+  margin-bottom: 20px;
 }
 
 .card--vscodeImg {
@@ -114,6 +115,9 @@ nav > img {
   border-radius: 50%;
 }
 
+/* 
+CAROUSSEL 
+*/
 .card {
   width: 200px;
   display: flex;
@@ -127,3 +131,6 @@ nav > img {
   gap: 20px;
   overflow-x: auto;
 }
+/* 
+CAROUSSEL 
+*/

@@ -4,6 +4,8 @@ import pythonVscImg from "./images/PythonVSCODE.png";
 import htmlLogo from "./images/htmlLogo.png";
 import htmlVscode from "./images/htmlVscode.png";
 import githubLogo from "./images/githubLogo.png";
+import cssLogo from "./images/cssLogo.png";
+import jsLogo from "./images/jsLogo.png";
 
 export default [
   {
@@ -33,4 +35,32 @@ export default [
     other: "something",
     other2: "something",
   },
+  {
+    id: 3,
+    title: "CSS",
+    description: "something",
+    mainImg: cssLogo,
+    vscodeImg: cssLogo,
+    other: "something",
+    other2: "something",
+  },
+  {
+    id: 4,
+    title: "Java Script",
+    description: "something",
+    mainImg: jsLogo,
+    vscodeImg: jsLogo,
+    other: "something",
+    other2: "something",
+  },
 ];
+
+// {
+//     id: ,
+//     title: "",
+//     description: "something",
+//     mainImg: ,
+//     vscodeImg: ,
+//     other: "something",
+//     other2: "something",
+//   }

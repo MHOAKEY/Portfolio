@@ -110,6 +110,10 @@ nav > img {
   margin-bottom: 20px;
 }
 
+.card--jsLogo {
+  border-radius: 50%;
+}
+
 .card--vscodeImg {
   height: 13px;
   border-radius: 50%;

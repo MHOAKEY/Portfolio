@@ -110,5 +110,6 @@ nav > img {
 }
 
 .card--vscodeImg {
+  height: 13px;
   border-radius: 50%;
 }

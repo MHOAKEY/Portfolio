@@ -100,3 +100,15 @@ nav > img {
   margin-top: -8.5px;
   margin-right: -17px;
 }
+
+.imgPy {
+  height: 30px;
+}
+
+.card--img {
+  height: 200px;
+}
+
+.card--vscodeImg {
+  border-radius: 50%;
+}

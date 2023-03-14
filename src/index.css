@@ -14,7 +14,7 @@ body {
 }
 
 nav {
-  width: 700px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   margin: auto;
   display: flex;
   align-items: center;
@@ -50,7 +50,7 @@ nav > img {
   margin: auto;
   width: 700px;
   padding: 57px 27px;
-  background: url("./images/DivaXMAS-removebg.png");
+  background: url("./images/Diva1234.png");
   background-position: 110%;
   background-repeat: no-repeat;
   background-size: 50%;
@@ -130,6 +130,8 @@ CAROUSSEL
 }
 
 .cards-list {
+  margin: auto;
+  width: 700px;
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;
